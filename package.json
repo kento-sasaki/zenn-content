@@ -1,0 +1,12 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "zenn content",
+  "main": "index.js",
+  "repository": "https://github.com/kozukata1993/zenn-content",
+  "author": "kozukata1993",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.41"
+  }
+}
